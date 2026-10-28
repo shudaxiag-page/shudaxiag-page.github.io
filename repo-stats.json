@@ -4,6 +4,6 @@
   "hard_limit_mb": 5120,
   "full_name": "shudaxiag-page/shudaxiag-site-src",
   "private": true,
-  "updated_at": "2026-10-28T16:41:08.493Z",
+  "updated_at": "2026-10-28T16:43:44.096Z",
   "note": "token 未配置，请运行 git config --local http.extraHeader 后重新构建"
 }
